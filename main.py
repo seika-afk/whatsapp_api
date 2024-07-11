@@ -1,4 +1,4 @@
-# pip install trilio
+# pip install twilio
 from twilio.rest import Client
 from tkinter import *
 
